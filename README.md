@@ -1,4 +1,4 @@
-# EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT
+![Screenshot 2024-10-29 092745](https://github.com/user-attachments/assets/77a69a5c-44db-4b97-874a-46edf3995ff6)# EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT
 
 ### Aim:
 To Interface a push button and generate an interrupt , simulate it using an led and simuate it on  proteus 
@@ -315,10 +315,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output screen shots of proteus  :
- 
- 
- ## CIRC
- ![Screenshot 2024-10-29 092934](https://github.com/user-attachments/assets/2bad37da-90ee-46ba-9983-b29f430b8d05)
+![Screenshot 2024-10-29 092745](https://github.com/user-attachments/assets/c261915c-9fe8-4c32-9f5b-93fdd9329289)
+
+
+## CIRC
+![Screenshot 2024-10-29 092934](https://github.com/user-attachments/assets/2bad37da-90ee-46ba-9983-b29f430b8d05)
 UIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  
  
